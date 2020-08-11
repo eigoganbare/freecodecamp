@@ -3,7 +3,7 @@ h1 {
     color: red;
 }
 
-#img-caption {
+.img-caption {
     text-align: center;
     color:red;
     font-style: italic;
