@@ -3,10 +3,11 @@ h1 {
     color: red;
 }
 
-.img-caption {
+#img-caption {
     text-align: center;
-    color:red;
+    color: white;
     font-style: italic;
+    font-weight: bold;
 }
 
 .tribute-info {
@@ -27,13 +28,14 @@ h1 {
 
 #img-div{
     background: gray;
-    display: flex;
+    display: block;
     justify-content: center;
     padding: 20px;
 }
 
 #image{
     max-width: 100%;
-    height:auto;
-    margin: 0 auto;
+    display: block;
+    height:auto;  
+    margin: 0 auto;    
 }
